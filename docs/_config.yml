@@ -1,0 +1,10 @@
+url: https://cronica-it.github.io/imagini
+# Pass this to jekyll via --baseurl.
+# baseurl: /web-preview
+
+# This property is useful for conditional filtering of content that is
+# separate from the PDF.
+output: web
+
+# This appears on the top navigation bar next to the home button.
+topnav_title: Cronica IT&C - imagini
