@@ -1,2 +1,0 @@
-# Cronica IT&C - imagini
-
