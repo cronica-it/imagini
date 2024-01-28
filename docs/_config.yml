@@ -1,6 +1,6 @@
-url: https://cronica-it.github.io/imagini
+url: https://cronica-it.github.io
 # Pass this to jekyll via --baseurl.
-# baseurl: /web-preview
+baseurl: /imagini
 
 # This property is useful for conditional filtering of content that is
 # separate from the PDF.
