@@ -1,5 +1,5 @@
 
-# imagini
+# imagini (images)
 
 This repository is part of the **Cronica IT&C** project,
 and is used to store the images used in the project web site.
